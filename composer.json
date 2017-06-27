@@ -1,0 +1,11 @@
+{
+    "name": "ilaravel/acl",
+    "authors": [
+        {
+            "name": "Mohammad Montazeri",
+            "email": "mo121ntazeri@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
